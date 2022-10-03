@@ -1,7 +1,7 @@
 # HelloWorld-g-
 Testing environment
 
-#OUTPUT:
+# OUTPUT:
 ```
 C:\PATH>build.py
 Files:  C:\Users\ADMIN\git\HelloWorld-g++/helloworld.cpp
